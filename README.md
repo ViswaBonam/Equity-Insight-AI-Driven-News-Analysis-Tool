@@ -22,7 +22,7 @@ This is a **realistic, scalable prototype** ideal for financial institutions suc
 
 ## 📸 Demo
 
-![screenshot](docs/demo.png) <!-- Add a screenshot here -->
+![screenshot](equityinsights.png)
 
 ---
 
